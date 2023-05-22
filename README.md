@@ -11,7 +11,6 @@ our
 *To view the documentation, enter any valid email.*
 
 
-
 ## Questions or need help
 For Medallia Sense360 SDK questions, please submit a support ticket
 [here](https://help.medallia.com/).
