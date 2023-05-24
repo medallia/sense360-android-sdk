@@ -5,12 +5,7 @@ width="450">
 ## Medallia Sense360 SDK for Android
 To get started with the Medallia Sense360 SDK for Android, please follow
 our
-[online documentation](http://sense360.com/docs/).
-
-#### Note:
-*To view the documentation, enter any valid email.*
-
-
+[online documentation](https://docs.medallia.com/en/?resourceId=sense360-android-sdk).
 
 ## Questions or need help
 For Medallia Sense360 SDK questions, please submit a support ticket
