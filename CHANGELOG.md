@@ -1,3 +1,6 @@
+#### Version 5.5.0
+[NEW] 5.5.0
+
 #### Version 5.4.0
 [NEW] Added API 33 support.
 [UPDATE] Updated `google-services-location` version to 21.
