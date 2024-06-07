@@ -1,3 +1,6 @@
+#### Version 5.4.1
+[BUGFIX] Removed Activity recognition permission from the SDK.
+
 #### Version 5.4.0
 [NEW] Added API 33 support.
 [UPDATE] Updated `google-services-location` version to 21.
