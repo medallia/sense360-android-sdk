@@ -1,3 +1,11 @@
+#### Version 5.5.0
+[BREAKING] Bumped `minSdkVersion` to API 28.
+[BREAKING] Requires [Android Gradle Plugin version 8.2.0](https://developer.android.com/build/releases/past-releases/agp-8-2-0-release-notes).
+[BREAKING] Requires [Gradle version 8.2](https://docs.gradle.org/8.2/release-notes.html).
+[BREAKING] Removed multiprocess support.
+[UPDATE] Bumped the SDK target to API 34.
+[UPDATE] Updated shared preferences and files encryption.
+
 #### Version 5.4.1
 [BUGFIX] Removed Activity recognition permission from the SDK.
 
