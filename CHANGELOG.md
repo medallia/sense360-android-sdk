@@ -1,4 +1,7 @@
 #### Version 5.5.0
+[BUGFIX] Fixed an issue with a missing limit check for adding geofences.
+
+#### Version 5.5.0
 [BREAKING] Bumped `minSdkVersion` to API 28.
 [BREAKING] Requires [Android Gradle Plugin version 8.2.0](https://developer.android.com/build/releases/past-releases/agp-8-2-0-release-notes).
 [BREAKING] Requires [Gradle version 8.2](https://docs.gradle.org/8.2/release-notes.html).
