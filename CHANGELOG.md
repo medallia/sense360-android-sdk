@@ -1,3 +1,6 @@
+#### Version 5.4.2
+[BUGFIX] Fixed an issue with a missing limit check for adding geofences.
+
 #### Version 5.4.1
 [BUGFIX] Removed Activity recognition permission from the SDK.
 
